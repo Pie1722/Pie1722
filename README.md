@@ -6,10 +6,10 @@
 ---
 
 [![Aravind's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pie1722&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-dark-mode-only)
-[![Aravind's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Pie1722&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-light-mode-only)
+[![Aravind's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Pie1722&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-light-mode-only)
 
 [![Aravind's GitHub lang-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-dark-mode-only)
-[![Aravind's GitHub lang-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=compact&theme=dark#gh-light-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-light-mode-only)
+[![Aravind's GitHub lang-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-light-mode-only)
 
 ---
 

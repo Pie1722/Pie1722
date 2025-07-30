@@ -5,8 +5,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=donut&theme=light#gh-light-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-light-mode-only)
+
 
 ---
 

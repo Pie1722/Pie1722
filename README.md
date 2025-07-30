@@ -11,3 +11,7 @@
 
 ## Micrcontrollers:
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/atmel.png" alt="Atmel" height="40"/> 
+  <img src="https://raw.githubusercontent.com/ashvnv/ashvnv/refs/heads/main/raw/logo/arduino.png" alt="Arduino" height="40"/> 
+</p>

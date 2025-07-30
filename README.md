@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Aravind
 
 - 🔭 I’m currently working on AVR microcontroller for making a plane
-- 🌱 I’m currently studying in electronics and computer at Father Agnel Polytechnic
+- 🌱 I’m currently studying in Electronics & Computer Engineering at Father Agnel Polytechnic
 
 ---
 ## Stats:

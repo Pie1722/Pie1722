@@ -7,6 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&show_icons=true&hide_border=false&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&show_icons=true&hide_border=false&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-light-mode-only)
+![ashvnv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvnv&theme=light#gh-light-mode-only&show_icons=true&hide_border=false&layout=compact)
 
 ---
 

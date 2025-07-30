@@ -6,7 +6,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=donut)](https://github.com/Pie1722/github-readme-stats)
-
+![Pie1722's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&theme=default&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ## Micrcontrollers:

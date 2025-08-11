@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aravind
 
-- 🔭 I’m currently working on AVR microcontroller for making a plane
+- 🔭 I’m currently working on AVR microcontroller for making a plane and stm32 wired game controller
 - 🌱 I’m currently studying in Electronics & Computer Engineering at Father Agnel Polytechnic
 
 ---

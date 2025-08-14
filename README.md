@@ -19,5 +19,6 @@
 <p align="left">
   <img height="40" alt="atmel" src="https://github.com/user-attachments/assets/b7656ee2-d5a6-47bc-aca4-306a4a2a773e" />
   <img height="40" alt="arduino" src="https://github.com/user-attachments/assets/9568a9db-437c-41cc-b902-73f8d1b4d252" />
-  <img height ="40" alt="stm32" src="https://github.com/user-attachments/assets/91996c31-23a7-4aac-9854-6ba677df9c37" />
+  <img height ="40" alt="stm32" src="https://github.com/user-attachments/assets/1d4796a0-45a5-42c9-9921-b56b49fca18b" />
+" />
 </p>

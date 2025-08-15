@@ -14,6 +14,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=compact&theme=dark#gh-dark-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pie1722&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ## Micrcontrollers:

@@ -18,8 +18,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pie1722&show_icons=true" />
 </picture>
 
-[![Aravind's GitHub lang-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-dark-mode-only)
-[![Aravind's GitHub lang-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Pie1722&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Pie1722/github-readme-stats#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pie1722&layout=compact&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pie1722&layout=compact&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pie1722&show_icons=true" />
+</picture>
 
 ---
 

@@ -1,8 +1,7 @@
 ## Hi there 👋 I am Aravind
 
-- 🔭 I'm currently getting my hands dirty on STM32 Micrcontrollers
-- 🌱 I’m currently studying in Electronics & Computer Engineering at Father Agnel Polytechnic
-
+- "Speciality" - Destroying stuffs and reverse engineering.
+- Love for electronics and embedded systems.
 ---
 ## Stats:
 <!-- comment -->

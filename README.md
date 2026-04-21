@@ -2,7 +2,10 @@
 
 - Destroying stuffs and reverse engineering.
 - Love for electronics and embedded systems.
+- Getting my hands dirty on STM32 MCU's.
+  
 ---
+
 ## Stats:
 <!-- comment -->
 <div>

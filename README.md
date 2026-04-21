@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aravind
 
-- "Speciality" - Destroying stuffs and reverse engineering.
+- 'Speciality' - Destroying stuffs and reverse engineering.
 - Love for electronics and embedded systems.
 ---
 ## Stats:

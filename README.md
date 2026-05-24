@@ -1,12 +1,12 @@
-## Pie Here👋 
+## a bit about me -
 
-- Destroying stuffs and reverse engineering.
-- Love for electronics and embedded systems.
-- Currently trying to work on STM32 MCU's.
+- destroying stuffs and reverse engineering.
+- love for electronics and embedded systems.
+- currently trying to work on stm32 mcu's.
   
 ---
 
-## Stats:
+## stats:
 <!-- comment -->
 <div>
   <picture>
@@ -38,7 +38,7 @@
 
 ---
 
-## Micrcontrollers:
+## micrcontrollers:
 
 <p align="left">
   <img height="40" alt="atmel" src="https://github.com/user-attachments/assets/b7656ee2-d5a6-47bc-aca4-306a4a2a773e" />

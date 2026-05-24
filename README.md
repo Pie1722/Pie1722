@@ -1,4 +1,4 @@
-## a bit about me -
+## a bit about me 
 
 - destroying stuffs and reverse engineering.
 - love for electronics and embedded systems.
